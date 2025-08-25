@@ -9,7 +9,7 @@
 
 get_header(); ?>
 			
-	<div class="content">
+	<div class="content grid-container">
 	
 		<div class="inner-content grid-x grid-margin-x grid-padding-x">
 	

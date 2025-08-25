@@ -3,7 +3,7 @@
  * Template part for displaying page content in page.php
  */
 ?>
-
+<!-- loop-page -->
 <article id="post-<?php the_ID(); ?>" <?php post_class(''); ?> role="article" itemscope itemtype="http://schema.org/WebPage">
 						
 	<header class="article-header">

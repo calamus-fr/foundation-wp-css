@@ -7,7 +7,7 @@
 
 // Adjust the amount of rows in the grid
 $grid_columns = 4; ?>
-
+<!-- loop-archive-grid -->
 <?php if( 0 === ( $wp_query->current_post  )  % $grid_columns ): ?>
 
     <div class="grid-x grid-margin-x grid-padding-x archive-grid" data-equalizer> <!--Begin Grid--> 
